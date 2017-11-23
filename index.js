@@ -4,7 +4,6 @@ function shout(string){
 function whisper(string){
   return string.toLowerCase()
 }
-let logShout = "hello"
-If (function logShout(string)){
-  console.log("I can't hear you")
+function logShout(string){
+  return string.toLowercase
 }
