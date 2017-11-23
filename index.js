@@ -16,3 +16,9 @@ function sayHiToGrandma(string){
 if (greeting = string.toLowerCase){
   return "I can't hear you!"
 }}
+let greetings = "HELLO"
+function sayHiToGrandma(string){
+  if (greeting = string.toUpperCase){
+    return "YES INDEED!"
+  }
+}
