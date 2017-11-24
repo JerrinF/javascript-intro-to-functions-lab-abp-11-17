@@ -16,10 +16,3 @@ function sayHiToGrandma(string){
   if (greeting = string.toLowerCase()){
   return "I can't hear you!"
 }
-else if (greeting = string.toUpperCase()){
-  return "YES INDEED!"
-}
-else if (greeting = "I love you, Grandma."){
-  return "I love you, too."
-}
-}
